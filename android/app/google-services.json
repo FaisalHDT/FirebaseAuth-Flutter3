@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566431802905",
+    "project_id": "fugi-project",
+    "storage_bucket": "fugi-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566431802905:android:3f67fe1582a7761fd16c88",
+        "android_client_info": {
+          "package_name": "com.frdynurm.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566431802905-mgsv8hm54fjrg7mg8f8qn6ms48i5mc35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3f7ioMHLinfDJbDuYrE3so-V2VJfmqGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566431802905-mgsv8hm54fjrg7mg8f8qn6ms48i5mc35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
